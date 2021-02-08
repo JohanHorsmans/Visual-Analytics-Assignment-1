@@ -4,7 +4,7 @@ Hello,
 
 To assess my assignment you should download the .ipynb-script in this repository. This can be done manually by going through the following steps:
 
-1: Open the "word_counts.ipynb" file in this repository.
+1: Open the "basic_image_processing" file in this repository.
 
 2: Press "raw" in the top right corner.
 
